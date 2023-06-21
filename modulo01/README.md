@@ -1,6 +1,7 @@
-Desculpe pelo mal-entendido. Aqui está o README.md atualizado com o link para a Lista 02:
+![codefico](https://github.com/allysonthales/codefico/assets/121051849/da92ab3a-246d-4d08-b730-3cad1e4d98cd)
+                                                                                                                                            
 
-# Módulo 1
+# Módulo 1 - Introdução à computação
 
 Esta pasta contém o código referente ao módulo 01, onde são abordados conceitos básicos da linguagem Python. O código está disponível no Google Colab para visualização e execução interativa.
 
