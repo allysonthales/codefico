@@ -1,5 +1,4 @@
 ![codefico](https://github.com/allysonthales/codefico/assets/121051849/da92ab3a-246d-4d08-b730-3cad1e4d98cd)
-                                                                                                                                            
 
 # Módulo 1 - Introdução à computação
 
@@ -16,7 +15,7 @@ O módulo 01 é uma introdução aos conceitos básicos da linguagem Python. Dur
 
 ## Arquivos no GitHub
 
-- [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/M%C3%B3dulo_1_Lista_1_Turma_Lua.ipynb)
+- [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb)
 - [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb)
 
 ## Visualizar no Google Colab
