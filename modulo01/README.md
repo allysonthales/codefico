@@ -17,6 +17,7 @@ O módulo 01 é uma introdução aos conceitos básicos da linguagem Python. Dur
 
 - [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb)
 - [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb)
+- [Lista 03](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_3_M%C3%B3dulo_1_Turma_Lua.ipynb)
 
 ## Visualizar no Google Colab
 
@@ -24,6 +25,7 @@ Clique nos links abaixo para abrir os notebooks no Google Colab:
 
 - [Lista 01](https://colab.research.google.com/drive/14jsGY50mOqiSIID6dTOgbJUc79r-2HSq)
 - [Lista 02](https://colab.research.google.com/drive/15XHiHmH5eCESw8COuwh_8yf3j5RdMIJt?usp=sharing)
+- [Lista 03](https://colab.research.google.com/drive/1xXX9jUZSLQiKosQKzFsCqfMfv7v3Gq3Z?usp=sharing)
 
 ## Descrição
 
