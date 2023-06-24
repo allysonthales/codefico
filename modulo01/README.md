@@ -1,5 +1,3 @@
-![codefico](https://github.com/allysonthales/codefico/assets/121051849/da92ab3a-246d-4d08-b730-3cad1e4d98cd)
-
 # Módulo 1 - Introdução à computação
 
 Esta pasta contém o código referente ao módulo 01, onde são abordados conceitos básicos da linguagem Python. O código está disponível no Google Colab para visualização e execução interativa.
@@ -19,6 +17,7 @@ O módulo 01 é uma introdução aos conceitos básicos da linguagem Python. Dur
 - [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb)
 - [Lista 03](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_3_M%C3%B3dulo_1_Turma_Lua.ipynb)
 - [Lista 04](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_4_M%C3%B3dulo_1_Turma_Lua.ipynb)
+- [Lista 05](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_5_M%C3%B3dulo_1_Turma_Lua.ipynb)
 
 ## Visualizar no Google Colab
 
@@ -28,16 +27,20 @@ Clique nos links abaixo para abrir os notebooks no Google Colab:
 - [Lista 02](https://colab.research.google.com/drive/15XHiHmH5eCESw8COuwh_8yf3j5RdMIJt?usp=sharing)
 - [Lista 03](https://colab.research.google.com/drive/1xXX9jUZSLQiKosQKzFsCqfMfv7v3Gq3Z?usp=sharing)
 - [Lista 04](https://colab.research.google.com/drive/1lYwgzSTLHPp9oQ9zbpxQXFU_rkjOoQd3)
+- [Lista 05](https://colab.research.google.com/drive/1c9sWDrY4eHJumo0n5X06Y1wYbyvUYnuR?usp=sharing)
 
 ## Descrição
 
 Nesta pasta, você encontrará o código Python com a resolução dos exercícios propostos a cada aula. Os notebooks contêm comentários explicativos para ajudar no entendimento do código e os resultados obtidos.
+
+![codefico](https://github.com/allysonthales/codefico/assets/121051849/da92ab3a-246d-4d08-b730-3cad1e4d98cd)
 
 ## Instruções
 
 Para visualizar e executar o código, siga as etapas abaixo:
 
 1. Acesse os links fornecidos acima para abrir os notebooks no Google Colab.
+
 2. No Google Colab, clique em "Runtime" e selecione "Run all" para executar todas as células do notebook.
 3. Explore o código, revise os comentários e observe os resultados obtidos.
 
