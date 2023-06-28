@@ -13,36 +13,24 @@ O módulo 01 é uma introdução aos conceitos básicos da linguagem Python. Dur
 - Operadores aritméticos e lógicos
 - Estruturas de controle de fluxo (condicionais e loops)
 
-## Arquivos no GitHub
+## Código
 
 ### Semana 01
 
-- [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb)
-- [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb)
-- [Lista 03](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_3_M%C3%B3dulo_1_Turma_Lua.ipynb)
-- [Lista 04](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_4_M%C3%B3dulo_1_Turma_Lua.ipynb)
-- [Lista 05](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_5_M%C3%B3dulo_1_Turma_Lua.ipynb)
+| GitHub                                                                                                         | Google Colab                                                                                      |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 01](https://colab.research.google.com/drive/14jsGY50mOqiSIID6dTOgbJUc79r-2HSq)             |
+| [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 02](https://colab.research.google.com/drive/15XHiHmH5eCESw8COuwh_8yf3j5RdMIJt?usp=sharing) |
+| [Lista 03](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_3_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 03](https://colab.research.google.com/drive/1xXX9jUZSLQiKosQKzFsCqfMfv7v3Gq3Z?usp=sharing) |
+| [Lista 04](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_4_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 04](https://colab.research.google.com/drive/1lYwgzSTLHPp9oQ9zbpxQXFU_rkjOoQd3)             |
+| [Lista 05](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_5_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 05](https://colab.research.google.com/drive/1c9sWDrY4eHJumo0n5X06Y1wYbyvUYnuR?usp=sharing) |
 
 ### Semana 02
 
-## Visualizar no Google Colab
-
-Clique nos links abaixo para abrir os notebooks no Google Colab:
-
-## Código
-
-| GitHub                                                                                                         | Google Colab                                                                          |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Lista 01](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_1_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 01](https://colab.research.google.com/drive/14jsGY50mOqiSIID6dTOgbJUc79r-2HSq) |
-
-| [Lista 02](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_2_M%C3%B3dulo_1_Turma_Lua.ipynb)
-[Lista 02](https://colab.research.google.com/drive/15XHiHmH5eCESw8COuwh_8yf3j5RdMIJt?usp=sharing) |
-
-- [Lista 01](https://colab.research.google.com/drive/14jsGY50mOqiSIID6dTOgbJUc79r-2HSq)
-- [Lista 02](https://colab.research.google.com/drive/15XHiHmH5eCESw8COuwh_8yf3j5RdMIJt?usp=sharing)
-- [Lista 03](https://colab.research.google.com/drive/1xXX9jUZSLQiKosQKzFsCqfMfv7v3Gq3Z?usp=sharing)
-- [Lista 04](https://colab.research.google.com/drive/1lYwgzSTLHPp9oQ9zbpxQXFU_rkjOoQd3)
-- [Lista 05](https://colab.research.google.com/drive/1c9sWDrY4eHJumo0n5X06Y1wYbyvUYnuR?usp=sharing)
+| GitHub                                                                                                         | Google Colab                                                                                      |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Lista 06](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_6_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 06](https://colab.research.google.com/drive/1LeV8MmdGBmYwz0-RvtUcD8ArdSPGpCMA?usp=sharing) |
+| [Lista 07](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_7_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 07](https://colab.research.google.com/drive/1RuUNJJcagl7-SY_b2RXPv1Sokj1WWC83?usp=sharing) |
 
 ## Descrição
 
@@ -55,8 +43,7 @@ Para visualizar e executar o código, siga as etapas abaixo:
 1. Acesse os links fornecidos acima para abrir os notebooks no Google Colab.
 
 2. No Google Colab, clique em "Runtime" e selecione "Run all" para executar todas as células do notebook.
-3. Explore o código, revise os comentários e observe os resultados obtidos.
 
 ## Recursos Adicionais
 
-Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato. Esperamos que este projeto seja útil para você!
+Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
