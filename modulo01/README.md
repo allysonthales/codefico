@@ -31,15 +31,21 @@ O módulo 01 é uma introdução aos conceitos básicos da linguagem Python. Dur
 |------------|--------------|
 | [Lista 06](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_6_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 06](https://colab.research.google.com/drive/1LeV8MmdGBmYwz0-RvtUcD8ArdSPGpCMA?usp=sharing) |
 | [Lista 07](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_7_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 07](https://colab.research.google.com/drive/1RuUNJJcagl7-SY_b2RXPv1Sokj1WWC83?usp=sharing) |
-| [Lista 08](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_8_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 08](https://colab.research.google.com/drive/1ooCNFfwXX_-QRE9DS1-ncw_D2JsTGBVk?usp=sharing) |
-| [Lista 09](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_9_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 09](https://colab.research.google.com/drive/19miJvQ2FPTfiaNaTPor_wExAmTlBzkrA?usp=sharing) |
-| [Lista 10](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_10_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 10](https://colab.research.google.com/drive/1QzWK3z6LbiutPdv_JMsgNvbnd-AaXaIC?usp=sharing) |
 
 ### Semana 03
 
 | GitHub     | Google Colab |
 |------------|--------------|
+| [Lista 08](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_8_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 08](https://colab.research.google.com/drive/1ooCNFfwXX_-QRE9DS1-ncw_D2JsTGBVk?usp=sharing) |
+| [Lista 09](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_9_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 09](https://colab.research.google.com/drive/19miJvQ2FPTfiaNaTPor_wExAmTlBzkrA?usp=sharing) |
+| [Lista 10](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_10_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 10](https://colab.research.google.com/drive/1QzWK3z6LbiutPdv_JMsgNvbnd-AaXaIC?usp=sharing) |
+
+### Semana 04
+
+| GitHub     | Google Colab |
+|------------|--------------|
 | [Lista 11](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_11_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 11](https://colab.research.google.com/drive/1-oMpaYZY1HIxkx4ylR319vLcfCu60Tsi?usp=sharing) |
+| [Lista 12](https://github.com/allysonthales/codefico/blob/main/modulo01/Lista_12_M%C3%B3dulo_1_Turma_Lua.ipynb) | [Lista 12](https://colab.research.google.com/drive/1eMI1OTrQriIaUL2Y5sL4BLRHd5Gpg6mZ?usp=sharing) |
 
 ## Descrição
 
